@@ -1,0 +1,5 @@
+[22-Mar-2016 10:43:50 UTC] PHP Fatal error:  Cannot redeclare class CreateUsersTable in /home/greenexagro/public_html/database/migrations/2016_02_03_130319_create_users_table.php on line 40
+[22-Mar-2016 10:43:59 UTC] PHP Fatal error:  Cannot redeclare class CreateUsersTable in /home/greenexagro/public_html/database/migrations/2016_02_03_130319_create_users_table.php on line 40
+[22-Mar-2016 10:44:15 UTC] PHP Fatal error:  Cannot redeclare class CreateUsersTable in /home/greenexagro/public_html/database/migrations/2016_02_03_130319_create_users_table.php on line 40
+[22-Mar-2016 10:45:50 UTC] PHP Fatal error:  Cannot redeclare class CreateUsersTable in /home/greenexagro/public_html/database/migrations/2016_02_03_130319_create_users_table.php on line 40
+[22-Mar-2016 10:49:24 UTC] PHP Fatal error:  Cannot redeclare class CreateUsersTable in /home/greenexagro/public_html/database/migrations/2016_02_03_130319_create_users_table.php on line 40
